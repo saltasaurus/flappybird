@@ -4,8 +4,9 @@
 Expanded Implementation of Flappy Bird based on TechWithTim's tutorial
 
 ## Running the game
-In terminal
-``` python play.py ```
+In terminal </br>
+1) ```pip install -r requirements.txt``` </br>
+2) ``` python play.py ```
 
 ## How to play
 1) Mouse click to jump

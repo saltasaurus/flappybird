@@ -29,11 +29,11 @@ In terminal </br>
 ## Changes
 - Highscore saving with JSON
 - Multi-file structure
+- Single pipes at low levels
 
 ## WIPs
 - Add name to highscore save
 - Moving pipe gaps at high levels
-- Single pipes at low levels
 - More flappy bird choices?
 
 ## Tools

@@ -100,7 +100,6 @@ class Pipe:
         self.height = random.randrange(rand_min, rand_max)
         self.top = self.height - self.PIPE_TOP.get_height()
         self.bottom = self.height + self.GAP
-        print("Gap: ", self.bottom - self.top)
 
     def __set_gap(self):
         min_gap = 175
@@ -110,7 +109,6 @@ class Pipe:
             self.GAP -= x
         else:
             self.GAP = min_gap
-        print("GAP = ", self.GAP)
 
     def move(self):
         self.x -= self.VEL 

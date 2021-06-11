@@ -1,6 +1,5 @@
 import pygame as pg 
 import neat
-#import time
 import os
 import random
 import pickle
